@@ -18,6 +18,7 @@
   "homepage": "https://github.com/shankhanil007/Collab#readme",
   "dependencies": {
     "ejs": "^3.1.6",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
   }
 }
